@@ -1,12 +1,11 @@
 {
-  "name": "openbootcamp",
+  "name": "ob-js-ejercicio-2",
   "version": "1.0.0",
-  "description": "OpenBootcamp exercises",
+  "description": "Ejercicio 2 from OpenBootcamp JavaScript",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "JonathanBytes",
   "license": "ISC"
 }
