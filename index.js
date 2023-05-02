@@ -6,7 +6,9 @@ const list = [
   {
     title : 'La isla misteriosa',
     author : 'Julio Verne',
-    date : "1875",
+    date : Date( 1875, 0, 1 ),
     link : 'https://es.wikipedia.org/wiki/La_isla_misteriosa',
   },
 ]
+
+console.log(list[4].date)
