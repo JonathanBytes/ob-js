@@ -10,5 +10,3 @@ const list = [
     link : 'https://es.wikipedia.org/wiki/La_isla_misteriosa',
   },
 ]
-
-console.log(list[list.length - 1].link)
